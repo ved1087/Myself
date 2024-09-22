@@ -1,0 +1,47 @@
+body {
+	margin: 0%;
+	padding: 0%;
+}
+
+.navbar {}
+
+.navbar ul {
+	margin: 2% 0% 0% 10%;
+    padding: 0% 0% 0% 0%;}
+
+.navbar li {
+	display: inline-block;
+	margin: 0% 7% 0% 0%;
+	padding: 0% 0% 0% 0%;
+}
+
+.navbar h1 {
+	display: inline-block;
+	margin: 0% 0% 0% 0%;
+}
+
+.navbar li a {
+	text-decoration: none;
+	color: black;
+}
+
+
+.intro{
+	margin: 5% 0% 0% 0%;
+}
+
+
+
+.intro p{
+
+}
+
+
+.intro h1{
+	font-size: 400%;
+    position: absolute;
+    top: 15%;
+    left: 10%;
+    margin: 0% 0% 0% 0%;
+    padding: 0% 0% 0% 0%;
+}
